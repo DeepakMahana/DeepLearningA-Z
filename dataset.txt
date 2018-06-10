@@ -1,0 +1,7 @@
+The dataset are quite big. Therefore I am mentioning the link to download it.
+
+1) Visit this link https://www.superdatascience.com/deep-learning/
+
+2) Each topic has a section named Dataset and Templates. Thats it you will get the dataset from there.
+
+Thank You !
